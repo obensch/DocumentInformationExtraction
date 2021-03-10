@@ -31,3 +31,4 @@ Evaluation of the predicted documents compared to ground truth data.
 ## data
 
 The data folder can be found here:
+https://drive.google.com/drive/folders/1ZSCW_LthTHUpigIDgfijLOR5ZSbksg_g
