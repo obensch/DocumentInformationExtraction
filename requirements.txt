@@ -1,0 +1,11 @@
+flask
+Flask-Cors
+pandas
+pytesseract
+numpy
+matplotlib
+opencv-contrib-python
+PyMuPDF
+spacy
+tensorflow
+keras
